@@ -1,0 +1,35 @@
+body{
+	background-color: powderblue;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+table,td,th{
+	border: 1px solid black;
+}
+table#t01 th{
+	background-color: black;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+/*table#t01{
+	width: 100%;
+	border: 1px solid black;
+}
+table#t01 table,th,td{
+		border: 1px solid black;
+		border-collapse: collapse;
+    
+}
+table#t01 td{
+    text-align: left;
+}*/
